@@ -1,0 +1,212 @@
+patient_ID,Instrument,Isolation_source,Assay_type,Target_gene,Seq_region,Seq_date,Health_state,Birth_Year,Age,Age_min,Age_max,Weight_min,Weight_max,Height_min,Height_max,BMI_min,BMI_max,Sex,Country,Race,Drugs,Smoking,Alcohol,Antibiotics_usage,Social_status,Physical_activity,Travel_period,Education_level,Hygiene,Pets_type,Sleep_duration
+patient_0,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_1,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_2,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_3,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_4,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_5,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_6,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_7,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_8,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_9,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_10,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_11,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_12,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_13,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_14,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_15,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_16,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_17,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_18,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_19,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_20,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_21,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_22,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_23,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_24,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_25,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_26,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_27,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_28,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_29,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_30,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_31,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_32,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_33,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_34,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_35,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_36,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_37,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_38,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_39,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_40,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_41,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_42,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_43,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_44,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_45,Illumina MiSeq,faeces,AMPLICON,16S,V5-V6,2018,Health,,,18,40,,,,,18,25,mixed,Belgium,Caucasian,,No,,Month,,,,,,,
+patient_46,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2018,Health,,,23,28,"65,4",89,170,188,,,male,Italy,,,,,Not use,,professional soccer player,,,,,
+patient_47,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2018,Health,,,23,28,"65,4",89,170,188,,,male,Italy,,,,,Not use,,professional soccer player,,,,,
+patient_48,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2018,Health,,,23,28,"65,4",89,170,188,,,male,Italy,,,,,Not use,,professional soccer player,,,,,
+patient_49,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2018,Health,,,23,28,"65,4",89,170,188,,,male,Italy,,,,,Not use,,professional soccer player,,,,,
+patient_50,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2018,Health,,,23,28,"65,4",89,170,188,,,male,Italy,,,,,Not use,,professional soccer player,,,,,
+patient_51,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2018,Health,,,23,28,"65,4",89,170,188,,,male,Italy,,,,,Not use,,professional soccer player,,,,,
+patient_52,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2018,Health,,,23,28,"65,4",89,170,188,,,male,Italy,,,,,Not use,,professional soccer player,,,,,
+patient_53,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2018,Health,,,23,28,"65,4",89,170,188,,,male,Italy,,,,,Not use,,professional soccer player,,,,,
+patient_54,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2018,Health,,,23,28,"65,4",89,170,188,,,male,Italy,,,,,Not use,,professional soccer player,,,,,
+patient_55,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2018,Health,,,23,28,"65,4",89,170,188,,,male,Italy,,,,,Not use,,professional soccer player,,,,,
+patient_56,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2018,Health,,,23,28,"65,4",89,170,188,,,male,Italy,,,,,Not use,,professional soccer player,,,,,
+patient_57,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2018,Health,,,23,28,"65,4",89,170,188,,,male,Italy,,,,,Not use,,professional soccer player,,,,,
+patient_58,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2018,Health,,,23,28,"65,4",89,170,188,,,male,Italy,,,,,Not use,,professional soccer player,,,,,
+patient_59,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2018,Health,,,23,28,"65,4",89,170,188,,,male,Italy,,,,,Not use,,professional soccer player,,,,,
+patient_60,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2018,Health,,,23,28,"65,4",89,170,188,,,male,Italy,,,,,Not use,,professional soccer player,,,,,
+patient_61,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2018,Health,,,23,28,"65,4",89,170,188,,,male,Italy,,,,,Not use,,professional soccer player,,,,,
+patient_62,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2018,Health,,,23,28,"65,4",89,170,188,,,male,Italy,,,,,Not use,,professional soccer player,,,,,
+patient_63,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2018,Health,,,23,28,"65,4",89,170,188,,,male,Italy,,,,,Not use,,professional soccer player,,,,,
+patient_64,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2018,Health,,,23,28,"65,4",89,170,188,,,male,Italy,,,,,Not use,,professional soccer player,,,,,
+patient_65,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2018,Health,,,23,28,"65,4",89,170,188,,,male,Italy,,,,,Not use,,professional soccer player,,,,,
+patient_66,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2018,Health,,,23,28,"65,4",89,170,188,,,male,Italy,,,,,Not use,,professional soccer player,,,,,
+patient_67,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2018,Health,,,23,28,"65,4",89,170,188,,,male,Italy,,,,,Not use,,professional soccer player,,,,,
+patient_68,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2018,Health,,,23,28,"65,4",89,170,188,,,male,Italy,,,,,Not use,,professional soccer player,,,,,
+patient_69,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2018,Health,,,23,28,"65,4",89,170,188,,,male,Italy,,,,,Not use,,professional soccer player,,,,,
+patient_70,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2018,Health,,,23,28,"65,4",89,170,188,,,male,Italy,,,,,Not use,,professional soccer player,,,,,
+patient_71,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2018,Health,,,23,28,"65,4",89,170,188,,,male,Italy,,,,,Not use,,professional soccer player,,,,,
+patient_72,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2018,Health,,,23,28,"65,4",89,170,188,,,male,Italy,,,,,Not use,,professional soccer player,,,,,
+patient_73,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2018,Health,,,23,28,"65,4",89,170,188,,,male,Italy,,,,,Not use,,professional soccer player,,,,,
+patient_74,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2018,Health,,,23,28,"65,4",89,170,188,,,male,Italy,,,,,Not use,,professional soccer player,,,,,
+patient_75,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2018,Health,,,23,28,"65,4",89,170,188,,,male,Italy,,,,,Not use,,professional soccer player,,,,,
+patient_76,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2018,Health,,,23,28,"65,4",89,170,188,,,male,Italy,,,,,Not use,,professional soccer player,,,,,
+patient_77,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2018,Health,,,23,28,"65,4",89,170,188,,,male,Italy,,,,,Not use,,professional soccer player,,,,,
+patient_78,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2018,Health,,,23,28,"65,4",89,170,188,,,male,Italy,,,,,Not use,,professional soccer player,,,,,
+patient_79,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2018,Health,,,23,28,"65,4",89,170,188,,,male,Italy,,,,,Not use,,professional soccer player,,,,,
+patient_80,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2018,Health,,,23,28,"65,4",89,170,188,,,male,Italy,,,,,Not use,,professional soccer player,,,,,
+patient_81,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2018,Health,,,23,28,"65,4",89,170,188,,,male,Italy,,,,,Not use,,professional soccer player,,,,,
+patient_82,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,16,42,,,,,"21,74","28,38",male,Poland,,,No,,Not use,urban,,,,,,
+patient_83,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,16,42,,,,,"21,74","28,38",male,Poland,,,No,,Not use,urban,,,,,,
+patient_84,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,16,42,,,,,"21,74","28,38",male,Poland,,,No,,Not use,urban,,,,,,
+patient_85,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,16,42,,,,,"21,74","28,38",male,Poland,,,No,,Not use,urban,,,,,,
+patient_86,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,16,42,,,,,"21,74","28,38",male,Poland,,,No,,Not use,urban,,,,,,
+patient_87,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,16,42,,,,,"21,74","28,38",male,Poland,,,No,,Not use,urban,,,,,,
+patient_88,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,16,42,,,,,"21,74","28,38",male,Poland,,,No,,Not use,urban,,,,,,
+patient_89,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,16,42,,,,,"21,74","28,38",male,Poland,,,No,,Not use,urban,,,,,,
+patient_90,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,16,42,,,,,"21,74","28,38",male,Poland,,,No,,Not use,urban,,,,,,
+patient_91,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,16,42,,,,,"21,74","28,38",male,Poland,,,No,,Not use,urban,,,,,,
+patient_92,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,16,42,,,,,"21,74","28,38",male,Poland,,,No,,Not use,urban,,,,,,
+patient_93,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,16,42,,,,,"21,74","28,38",male,Poland,,,No,,Not use,urban,,,,,,
+patient_94,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,21,43,,,,,"19,21","29,29",female,Poland,,,No,,Not use,urban,,,,,,
+patient_95,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,21,43,,,,,"19,21","29,29",female,Poland,,,No,,Not use,urban,,,,,,
+patient_96,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,21,43,,,,,"19,21","29,29",female,Poland,,,No,,Not use,urban,,,,,,
+patient_97,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,21,43,,,,,"19,21","29,29",female,Poland,,,No,,Not use,urban,,,,,,
+patient_98,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,21,43,,,,,"19,21","29,29",female,Poland,,,No,,Not use,urban,,,,,,
+patient_99,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,21,43,,,,,"19,21","29,29",female,Poland,,,No,,Not use,urban,,,,,,
+patient_100,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,21,43,,,,,"19,21","29,29",female,Poland,,,No,,Not use,urban,,,,,,
+patient_101,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,16,42,,,,,"21,74","28,38",male,Poland,,,No,,Not use,urban,,,,,,
+patient_102,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,16,42,,,,,"21,74","28,38",male,Poland,,,No,,Not use,urban,,,,,,
+patient_103,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,16,42,,,,,"21,74","28,38",male,Poland,,,No,,Not use,urban,,,,,,
+patient_104,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,21,43,,,,,"19,21","29,29",female,Poland,,,No,,Not use,urban,,,,,,
+patient_105,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,21,43,,,,,"19,21","29,29",female,Poland,,,No,,Not use,urban,,,,,,
+patient_106,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,21,43,,,,,"19,21","29,29",female,Poland,,,No,,Not use,urban,,,,,,
+patient_107,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,21,43,,,,,"19,21","29,29",female,Poland,,,No,,Not use,urban,,,,,,
+patient_108,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,21,43,,,,,"19,21","29,29",female,Poland,,,No,,Not use,urban,,,,,,
+patient_109,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,21,43,,,,,"19,21","29,29",female,Poland,,,No,,Not use,urban,,,,,,
+patient_110,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,21,43,,,,,"19,21","29,29",female,Poland,,,No,,Not use,urban,,,,,,
+patient_111,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,21,43,,,,,"19,21","29,29",female,Poland,,,No,,Not use,urban,,,,,,
+patient_112,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,21,43,,,,,"19,21","29,29",female,Poland,,,No,,Not use,urban,,,,,,
+patient_113,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,21,43,,,,,"19,21","29,29",female,Poland,,,No,,Not use,urban,,,,,,
+patient_114,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,21,43,,,,,"19,21","29,29",female,Poland,,,No,,Not use,urban,,,,,,
+patient_115,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,21,43,,,,,"19,21","29,29",female,Poland,,,No,,Not use,urban,,,,,,
+patient_116,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,16,42,,,,,"21,74","28,38",male,Poland,,,No,,Not use,urban,,,,,,
+patient_117,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,16,42,,,,,"21,74","28,38",male,Poland,,,No,,Not use,urban,,,,,,
+patient_118,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,16,42,,,,,"21,74","28,38",male,Poland,,,No,,Not use,urban,,,,,,
+patient_119,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,16,42,,,,,"21,74","28,38",male,Poland,,,No,,Not use,urban,,,,,,
+patient_120,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,16,42,,,,,"21,74","28,38",male,Poland,,,No,,Not use,urban,,,,,,
+patient_121,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,16,42,,,,,"21,74","28,38",male,Poland,,,No,,Not use,urban,,,,,,
+patient_122,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,16,42,,,,,"21,74","28,38",male,Poland,,,No,,Not use,urban,,,,,,
+patient_123,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,16,42,,,,,"21,74","28,38",male,Poland,,,No,,Not use,urban,,,,,,
+patient_124,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,21,43,,,,,"19,21","29,29",female,Poland,,,No,,Not use,urban,,,,,,
+patient_125,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,21,43,,,,,"19,21","29,29",female,Poland,,,No,,Not use,urban,,,,,,
+patient_126,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,21,43,,,,,"19,21","29,29",female,Poland,,,No,,Not use,urban,,,,,,
+patient_127,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,21,43,,,,,"19,21","29,29",female,Poland,,,No,,Not use,urban,,,,,,
+patient_128,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,21,43,,,,,"19,21","29,29",female,Poland,,,No,,Not use,urban,,,,,,
+patient_129,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,21,43,,,,,"19,21","29,29",female,Poland,,,No,,Not use,urban,,,,,,
+patient_130,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,21,43,,,,,"19,21","29,29",female,Poland,,,No,,Not use,urban,,,,,,
+patient_131,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,21,43,,,,,"19,21","29,29",female,Poland,,,No,,Not use,urban,,,,,,
+patient_132,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,21,43,,,,,"19,21","29,29",female,Poland,,,No,,Not use,urban,,,,,,
+patient_133,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,21,43,,,,,"19,21","29,29",female,Poland,,,No,,Not use,urban,,,,,,
+patient_134,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,21,43,,,,,"19,21","29,29",female,Poland,,,No,,Not use,urban,,,,,,
+patient_135,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,21,43,,,,,"19,21","29,29",female,Poland,,,No,,Not use,urban,,,,,,
+patient_136,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,21,43,,,,,"19,21","29,29",female,Poland,,,No,,Not use,urban,,,,,,
+patient_137,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,21,43,,,,,"19,21","29,29",female,Poland,,,No,,Not use,urban,,,,,,
+patient_138,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,21,43,,,,,"19,21","29,29",female,Poland,,,No,,Not use,urban,,,,,,
+patient_139,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,21,43,,,,,"19,21","29,29",female,Poland,,,No,,Not use,urban,,,,,,
+patient_140,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,21,43,,,,,"19,21","29,29",female,Poland,,,No,,Not use,urban,,,,,,
+patient_141,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,21,43,,,,,"19,21","29,29",female,Poland,,,No,,Not use,urban,,,,,,
+patient_142,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,16,42,,,,,"21,74","28,38",male,Poland,,,No,,Not use,urban,,,,,,
+patient_143,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,16,42,,,,,"21,74","28,38",male,Poland,,,No,,Not use,urban,,,,,,
+patient_144,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,16,42,,,,,"21,74","28,38",male,Poland,,,No,,Not use,urban,,,,,,
+patient_145,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,16,42,,,,,"21,74","28,38",male,Poland,,,No,,Not use,urban,,,,,,
+patient_146,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,16,42,,,,,"21,74","28,38",male,Poland,,,No,,Not use,urban,,,,,,
+patient_147,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,16,42,,,,,"21,74","28,38",male,Poland,,,No,,Not use,urban,,,,,,
+patient_148,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,16,42,,,,,"21,74","28,38",male,Poland,,,No,,Not use,urban,,,,,,
+patient_149,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,21,43,,,,,"19,21","29,29",female,Poland,,,No,,Not use,urban,,,,,,
+patient_150,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,21,43,,,,,"19,21","29,29",female,Poland,,,No,,Not use,urban,,,,,,
+patient_151,Illumina MiSeq,faeces,AMPLICON,16S,V3-V4,2023,Health,,,21,43,,,,,"19,21","29,29",female,Poland,,,No,,Not use,urban,,,,,,
+patient_152,Illumina MiSeq,faeces,AMPLICON,16S,V4,2021,Health,1964,57,,,,,,,,,male,Australia,Caucasian,,Never,Occasionally (1-2 times/week),,,Regularly (3-5 times/week),6 months,Master's level,Never cosmetics,Cat,7-8 hours
+patient_153,Illumina MiSeq,faeces,AMPLICON,16S,V4,2021,Health,1956,65,,,,,,,,,male,Australia,Caucasian,,Never,Never,,,Regularly (3-5 times/week),3 months,School Level,Never cosmetics,Cat,4-6 hours
+patient_154,Illumina MiSeq,faeces,AMPLICON,16S,V4,2021,Health,1956,65,,,,,,,,,male,Australia,Caucasian,,Never,Occasionally (1-2 times/week),,,Regularly (3-5 times/week),Year,Master's level,Never cosmetics,Cat,7-8 hours
+patient_155,Illumina MiSeq,faeces,AMPLICON,16S,V4,2021,Health,1945,76,,,,,,,,,female,Australia,Caucasian,,Never,Never,,,Daily,Year,Master's level,Never cosmetics,Cat,> 8 hours
+patient_156,Illumina MiSeq,faeces,AMPLICON,16S,V4,2021,Health,1956,65,,,,,,,,,male,Australia,Caucasian,,Never,Never,,,Regularly (3-5 times/week),3 months,School Level,Never cosmetics,Cat,4-6 hours
+patient_157,Illumina MiSeq,faeces,AMPLICON,16S,V4,2021,Health,1980,41,,,,,,,,,female,Australia,Caucasian,,Daily,Occasionally (1-2 times/week),,,Never,Month,Bachelor's level,Occasionally cosmetics (1-2 times/week),Cat,6-7 hours
+patient_158,Illumina MiSeq,faeces,AMPLICON,16S,V4,2020,Health,1989,31,,,,,,,,,,Austria,Caucasian,,Never,Rarely (a few times/month),,,Occasionally (1-2 times/week),Month,Master's level,Never cosmetics,Cat,7-8 hours
+patient_159,Illumina MiSeq,faeces,AMPLICON,16S,V4,2020,Health,1995,25,,,,,,,,,female,Austria,Caucasian,,Occasionally (1-2 times/week),Occasionally (1-2 times/week),,,Occasionally (1-2 times/week),3 months,Bachelor's level,Never cosmetics,Cat,6-7 hours
+patient_160,Illumina MiSeq,faeces,AMPLICON,16S,V4,2020,Health,1989,31,,,,,,,,,,Austria,Caucasian,,Never,Rarely (a few times/month),,,Occasionally (1-2 times/week),Month,Master's level,Never cosmetics,Cat,7-8 hours
+patient_161,Illumina MiSeq,faeces,AMPLICON,16S,V4,2020,Health,1995,25,,,,,,,,,,Germany,Caucasian,,Never,Rarely (a few times/month),,,Regularly (3-5 times/week),Year,Bachelor's level,Daily cosmetics,Cat,7-8 hours
+patient_162,Illumina MiSeq,faeces,AMPLICON,16S,V4,2020,Health,1998,22,,,,,,,,,,Germany,Caucasian,,Daily,Regularly (3-5 times/week),,,Rarely (a few times/month),Month,School Level,Daily cosmetics,Cat,7-8 hours
+patient_163,Illumina MiSeq,faeces,AMPLICON,16S,V4,2020,Health,1988,32,,,,,,,,,,Germany,Caucasian,,Never,Occasionally (1-2 times/week),,,Occasionally (1-2 times/week),3 months,School Level,Daily cosmetics,Cat,6-7 hours
+patient_164,Illumina MiSeq,faeces,AMPLICON,16S,V4,2021,Health,1993,28,,,,,,,,,,Germany,Other,,Never,Occasionally (1-2 times/week),,,Regularly (3-5 times/week),Year,Bachelor's level,Daily cosmetics,Cat,7-8 hours
+patient_165,Illumina MiSeq,faeces,AMPLICON,16S,V4,2021,Health,1980,41,,,,,,,,,,Germany,Other,,Never,Never,,,Daily,Year,Bachelor's level,Daily cosmetics,Cat,7-8 hours
+patient_166,Illumina MiSeq,faeces,AMPLICON,16S,V4,2020,Health,1998,22,,,,,,,,,,Germany,Caucasian,,Never,Rarely (a few times/month),,,Rarely (a few times/month),3 months,School Level,Daily cosmetics,Cat,> 8 hours
+patient_167,Illumina MiSeq,faeces,AMPLICON,16S,V4,2020,Health,1999,21,,,,,,,,,,Germany,Other,,Never,Rarely (a few times/month),,,Regularly (3-5 times/week),6 months,School Level,Daily cosmetics,Cat,7-8 hours
+patient_168,Illumina MiSeq,faeces,AMPLICON,16S,V4,2020,Health,1994,26,,,,,,,,,,Germany,Hispanic,,Never,Occasionally (1-2 times/week),,,Occasionally (1-2 times/week),3 months,Bachelor's level,Daily cosmetics,Cat,4-6 hours
+patient_169,Illumina MiSeq,faeces,AMPLICON,16S,V4,2020,Health,1998,22,,,,,,,,,,Germany,Caucasian,,Never,Occasionally (1-2 times/week),,,Regularly (3-5 times/week),Year,School Level,Daily cosmetics,Cat,7-8 hours
+patient_170,Illumina MiSeq,faeces,AMPLICON,16S,V4,2021,Health,1989,32,,,,,,,,,,Germany,Asian or Pacific Islander,,Never,Rarely (a few times/month),,,Occasionally (1-2 times/week),Year,Bachelor's level,Daily cosmetics,Cat,7-8 hours
+patient_171,Illumina MiSeq,faeces,AMPLICON,16S,V4,2020,Health,1992,28,,,,,,,,,,Germany,Caucasian,,Daily,Occasionally (1-2 times/week),,,Regularly (3-5 times/week),3 months,Bachelor's level,Never cosmetics,Cat,7-8 hours
+patient_172,Illumina MiSeq,faeces,AMPLICON,16S,V4,2020,Health,1994,26,,,,,,,,,,Germany,Other,,Never,Rarely (a few times/month),,,Regularly (3-5 times/week),3 months,School Level,Never cosmetics,Cat,6-7 hours
+patient_173,Illumina MiSeq,faeces,AMPLICON,16S,V4,2020,Health,1993,27,,,,,,,,,,Germany,Caucasian,,Daily,Occasionally (1-2 times/week),,,Rarely (a few times/month),6 months,Bachelor's level,Never cosmetics,Cat,6-7 hours
+patient_174,Illumina MiSeq,faeces,AMPLICON,16S,V4,2020,Health,1986,34,,,,,,,,,,Germany,Other,,Never,Never,,,Rarely (a few times/month),6 months,School Level,Never cosmetics,Cat,6-7 hours
+patient_175,Illumina MiSeq,faeces,AMPLICON,16S,V4,2020,Health,1988,32,,,,,,,,,,Germany,Caucasian,,Never,Occasionally (1-2 times/week),,,Regularly (3-5 times/week),3 months,School Level,Never cosmetics,Cat,6-7 hours
+patient_176,Illumina MiSeq,faeces,AMPLICON,16S,V4,2020,Health,1989,31,,,,,,,,,,Germany,Caucasian,,Never,Rarely (a few times/month),,,Occasionally (1-2 times/week),Year,Bachelor's level,Never cosmetics,Cat,7-8 hours
+patient_177,Illumina MiSeq,faeces,AMPLICON,16S,V4,2020,Health,1993,27,,,,,,,,,,Germany,Caucasian,,Never,Occasionally (1-2 times/week),,,Occasionally (1-2 times/week),Year,Bachelor's level,Never cosmetics,Cat,7-8 hours
+patient_178,Illumina MiSeq,faeces,AMPLICON,16S,V4,2020,Health,1985,35,,,,,,,,,,Germany,Caucasian,,Never,Never,,,Rarely (a few times/month),Year,Master's level,Never cosmetics,Cat,6-7 hours
+patient_179,Illumina MiSeq,faeces,AMPLICON,16S,V4,2020,Health,1992,28,,,,,,,,,,Germany,Caucasian,,Never,Occasionally (1-2 times/week),,,Occasionally (1-2 times/week),Year,School Level,Never cosmetics,Cat,7-8 hours
+patient_180,Illumina MiSeq,faeces,AMPLICON,16S,V4,2021,Health,1992,29,,,,,,,,,,Germany,Caucasian,,Rarely (a few times/month),Occasionally (1-2 times/week),,,Rarely (a few times/month),Year,School Level,Never cosmetics,Cat,6-7 hours
+patient_181,Illumina MiSeq,faeces,AMPLICON,16S,V4,2021,Health,1992,29,,,,,,,,,,Germany,Caucasian,,Never,Rarely (a few times/month),,,Occasionally (1-2 times/week),Year,Bachelor's level,Never cosmetics,Cat,6-7 hours
+patient_182,Illumina MiSeq,faeces,AMPLICON,16S,V4,2021,Health,1996,25,,,,,,,,,,Germany,Caucasian,,Occasionally (1-2 times/week),Occasionally (1-2 times/week),,,Rarely (a few times/month),3 months,Bachelor's level,Never cosmetics,Cat,7-8 hours
+patient_183,Illumina MiSeq,faeces,AMPLICON,16S,V4,2021,Health,1993,28,,,,,,,,,,Germany,Other,,Never,Rarely (a few times/month),,,Regularly (3-5 times/week),Year,Bachelor's level,Never cosmetics,Cat,7-8 hours
+patient_184,Illumina MiSeq,faeces,AMPLICON,16S,V4,2020,Health,1994,26,,,,,,,,,,Germany,Caucasian,,Never,Occasionally (1-2 times/week),,,Regularly (3-5 times/week),6 months,,Never cosmetics,Cat,7-8 hours
+patient_185,Illumina MiSeq,faeces,AMPLICON,16S,V4,2020,Health,1984,36,,,,,,,,,,Germany,,,Never,Never,,,Daily,Year,Bachelor's level,Never cosmetics,Cat,7-8 hours
+patient_186,Illumina MiSeq,faeces,AMPLICON,16S,V4,2020,Health,1989,31,,,,,,,,,,Germany,Caucasian,,Rarely (a few times/month),Occasionally (1-2 times/week),,,Regularly (3-5 times/week),Year,School Level,Never cosmetics,Cat,7-8 hours
+patient_187,Illumina MiSeq,faeces,AMPLICON,16S,V4,2021,Health,1995,26,,,,,,,,,,Germany,African American,,Never,Rarely (a few times/month),,,Regularly (3-5 times/week),Month,School Level,Never cosmetics,Cat,6-7 hours
+patient_188,Illumina MiSeq,faeces,AMPLICON,16S,V4,2021,Health,1983,38,,,,,,,,,,Germany,Caucasian,,Never,Regularly (3-5 times/week),,,Regularly (3-5 times/week),Year,Bachelor's level,Never cosmetics,Cat,> 8 hours
+patient_189,Illumina MiSeq,faeces,AMPLICON,16S,V4,2021,Health,1981,40,,,,,,,,,,Germany,Other,,Never,Rarely (a few times/month),,,Occasionally (1-2 times/week),Year,Master's level,Never cosmetics,Cat,6-7 hours
+patient_190,Illumina MiSeq,faeces,AMPLICON,16S,V4,2020,Health,1999,21,,,,,,,,,,Germany,Other,,Never,Rarely (a few times/month),,,Occasionally (1-2 times/week),3 months,School Level,Occasionally cosmetics (1-2 times/week),Cat,6-7 hours
+patient_191,Illumina MiSeq,faeces,AMPLICON,16S,V4,2020,Health,1997,23,,,,,,,,,,Germany,Caucasian,,Never,Rarely (a few times/month),,,Regularly (3-5 times/week),Year,,Occasionally cosmetics (1-2 times/week),Cat,7-8 hours
+patient_192,Illumina MiSeq,faeces,AMPLICON,16S,V4,2020,Health,1993,27,,,,,,,,,,Germany,Caucasian,,Never,Rarely (a few times/month),,,Occasionally (1-2 times/week),3 months,Bachelor's level,Occasionally cosmetics (1-2 times/week),Cat,7-8 hours
+patient_193,Illumina MiSeq,faeces,AMPLICON,16S,V4,2020,Health,1996,24,,,,,,,,,,Germany,Caucasian,,Never,Occasionally (1-2 times/week),,,Never,Year,School Level,Occasionally cosmetics (1-2 times/week),,6-7 hours
+patient_194,Illumina MiSeq,faeces,AMPLICON,16S,V4,2020,Health,1991,29,,,,,,,,,,Germany,Caucasian,,Never,Rarely (a few times/month),,,Occasionally (1-2 times/week),6 months,Master's level,Rarely cosmetics (a few times/month),Cat,7-8 hours
+patient_195,Illumina MiSeq,faeces,AMPLICON,16S,V4,2020,Health,1995,25,,,,,,,,,,Germany,,,Never,Rarely (a few times/month),,,Regularly (3-5 times/week),Year,Bachelor's level,Rarely cosmetics (a few times/month),Cat,7-8 hours
+patient_196,Illumina MiSeq,faeces,AMPLICON,16S,V4,2020,Health,1992,28,,,,,,,,,,Germany,Caucasian,,Never,Occasionally (1-2 times/week),,,Regularly (3-5 times/week),Month,Bachelor's level,Rarely cosmetics (a few times/month),Cat,7-8 hours
+patient_197,Illumina MiSeq,faeces,AMPLICON,16S,V4,2021,Health,1989,32,,,,,,,,,,Germany,Caucasian,,Never,Rarely (a few times/month),,,Rarely (a few times/month),6 months,Bachelor's level,Rarely cosmetics (a few times/month),Cat,7-8 hours
+patient_198,Illumina MiSeq,faeces,AMPLICON,16S,V4,2020,Health,1996,24,,,,,,,,,,Germany,Other,,Never,Rarely (a few times/month),,,Regularly (3-5 times/week),6 months,School Level,Rarely cosmetics (a few times/month),Cat,6-7 hours
+patient_199,Illumina MiSeq,faeces,AMPLICON,16S,V4,2020,Health,1994,26,,,,,,,,,,Germany,Caucasian,,Never,Rarely (a few times/month),,,Occasionally (1-2 times/week),6 months,School Level,Rarely cosmetics (a few times/month),Cat,7-8 hours
+patient_200,Illumina MiSeq,faeces,AMPLICON,16S,V4,2020,Health,1964,56,,,,,,,,,,Germany,Caucasian,,Never,Rarely (a few times/month),,,Rarely (a few times/month),3 months,Bachelor's level,Regularly cosmetics (3-5 times/week),Cat,7-8 hours
+patient_201,Illumina MiSeq,faeces,AMPLICON,16S,V4,2020,Health,1993,27,,,,,,,,,,Germany,Other,,Regularly (3-5 times/week),Rarely (a few times/month),,,Occasionally (1-2 times/week),Year,School Level,Regularly cosmetics (3-5 times/week),Cat,6-7 hours
+patient_202,Illumina MiSeq,faeces,AMPLICON,16S,V4,2020,Health,1993,27,,,,,,,,,,Germany,Caucasian,,Rarely (a few times/month),Rarely (a few times/month),,,Occasionally (1-2 times/week),Month,Bachelor's level,Regularly cosmetics (3-5 times/week),Cat,6-7 hours
+patient_203,Illumina MiSeq,faeces,AMPLICON,16S,V4,2020,Health,1995,25,,,,,,,,,,Germany,Caucasian,,Never,Occasionally (1-2 times/week),,,Rarely (a few times/month),Month,Bachelor's level,Regularly cosmetics (3-5 times/week),Cat,> 8 hours
+patient_204,Illumina MiSeq,faeces,AMPLICON,16S,V4,2020,Health,1996,24,,,,,,,,,,Germany,Other,,Never,Never,,,Occasionally (1-2 times/week),Year,Bachelor's level,Regularly cosmetics (3-5 times/week),Cat,4-6 hours
+patient_205,Illumina MiSeq,faeces,AMPLICON,16S,V4,2021,Health,1995,26,,,,,,,,,,Germany,Caucasian,,Never,Rarely (a few times/month),,,Regularly (3-5 times/week),Year,School Level,Regularly cosmetics (3-5 times/week),Cat,4-6 hours
+patient_206,Illumina MiSeq,faeces,AMPLICON,16S,V4,2021,Health,1981,40,,,,,,,,,female,Greece,Caucasian,,Rarely (a few times/month),Regularly (3-5 times/week),,,Regularly (3-5 times/week),Year,Bachelor's level,Daily cosmetics,Cat,7-8 hours
+patient_207,Illumina MiSeq,faeces,AMPLICON,16S,V4,2021,Health,1975,46,,,,,,,,,male,Hungary,Caucasian,,Never,Rarely (a few times/month),,,Regularly (3-5 times/week),3 months,Bachelor's level,Daily cosmetics,Cat,6-7 hours
+patient_208,Illumina MiSeq,faeces,AMPLICON,16S,V4,2021,Health,1968,53,,,,,,,,,male,Hungary,Caucasian,,Never,Rarely (a few times/month),,,Occasionally (1-2 times/week),,,Daily cosmetics,,> 8 hours
+patient_209,Illumina MiSeq,faeces,AMPLICON,16S,V4,2021,Health,1960,61,,,,,,,,,male,Israel,Caucasian,,Daily,Rarely (a few times/month),,,Rarely (a few times/month),3 months,Master's level,Never cosmetics,Cat,7-8 hours
+patient_210,Illumina MiSeq,faeces,AMPLICON,16S,V4,2021,Health,1972,49,,,,,,,,,male,Italy,Caucasian,,Never,Regularly (3-5 times/week),,,Regularly (3-5 times/week),Month,Master's level,Never cosmetics,Cat,6-7 hours
