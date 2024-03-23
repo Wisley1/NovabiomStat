@@ -1,0 +1,195 @@
+TaxonName,Rank,Vitamin
+Bifidobacterium,G,A
+Eubacterium,G,A
+Lactobacillus,G,A
+Ruminococcus,G,A
+Acidaminococcus,G,B1
+Arcobacter,G,B1
+Bifidobacterium,G,B1
+Bifidobacterium bifidum,S,B1
+Bifidobacterium infantis,S,B1
+Bifidobacterium longum,S,B1
+Butyricimonas,G,B1
+Lactobacillus,G,B1
+Lactobacillus casei,S,B1
+Lactobacillus curvatus,S,B1
+Lactobacillus plantarum,S,B1
+Methanobrevibacter,G,B1
+Ruminococcus,G,B1
+Ruminococcus lactaris,S,B1
+Sellimonas,G,B1
+ Lactobacillus delbruckii ,S,B12
+Bacteroidetes,P,B12
+Bifidobacterium,G,B12
+Bifidobacterium animalis,S,B12
+Bifidobacterium breve,S,B12
+Bifidobacterium infantis,S,B12
+Bifidobacterium longum,S,B12
+Faecalibacterium,G,B12
+Faecalibacterium prausnitzii,S,B12
+Lactobacillus,G,B12
+Lactobacillus acidophilus,S,B12
+Lactobacillus coryniformis,S,B12
+Lactobacillus paracasei,S,B12
+Lactobacillus plantarum,S,B12
+Lactobacillus reuteri,S,B12
+Propionibacterium,G,B12
+Propionibacterium freudenreichii,S,B12
+Ruminococcus,G,B12
+Ruminococcus lactaris,S,B12
+Streptococcus thermophilus,S,B12
+Acidaminococcus,G,B2
+Agathobacter,G,B2
+Akkermansia,G,B2
+Bacteroidetes,P,B2
+Barnesiella,G,B2
+Bifidobacterium,G,B2
+Bifidobacterium infantis,S,B2
+Bifidobacterium longum,S,B2
+Butyricicoccus,G,B2
+Cloacibacillus,G,B2
+Coprobacter,G,B2
+Faecalitalea,G,B2
+Geobacillus,G,B2
+Lactobacillus,G,B2
+Lactobacillus fermentum,S,B2
+Lactobacillus plantarum,S,B2
+Lactococcus,G,B2
+Leuconostoc,G,B2
+Megamonas,G,B2
+Muribaculum,G,B2
+Odoribacter,G,B2
+Olsenella,G,B2
+Paenibacillus,G,B2
+Parabacteroides,G,B2
+Paraprevotella,G,B2
+Phascolarctobacterium,G,B2
+Propionibacterium,G,B2
+Propionibacterium freudenreichii,S,B2
+Pseudarthrobacter,G,B2
+Pseudobutyrivibrio,G,B2
+Roseburia,G,B2
+Ruminiclostridium,G,B2
+Ruminococcus,G,B2
+Ruminococcus lactaris,S,B2
+Senegalimassilia,G,B2
+Streptomyces,G,B2
+Tyzzerella,G,B2
+Weissella,G,B2
+Akkermansia,G,B3
+Anaerostipes,G,B3
+Arcobacter,G,B3
+Barnesiella,G,B3
+Bifidobacterium,G,B3
+Bifidobacterium infantis,S,B3
+Collinsella,G,B3
+Coprobacter,G,B3
+Coprococcus,G,B3
+Intestinibacter,G,B3
+Methanobacterium,G,B3
+Muribaculum,G,B3
+Odoribacter,G,B3
+Olsenella,G,B3
+Parabacteroides,G,B3
+Paraprevotella,G,B3
+Pseudobutyrivibrio,G,B3
+Roseburia,G,B3
+Ruminiclostridium,G,B3
+Ruminococcus,G,B3
+Ruminococcus lactaris,S,B3
+Adlercreutzia,G,B5
+Akkermansia,G,B5
+Anaerostipes,G,B5
+Arcobacter,G,B5
+Geobacillus,G,B5
+Odoribacter,G,B5
+Paenibacillus,G,B5
+Parabacteroides,G,B5
+Paraprevotella,G,B5
+Phascolarctobacterium,G,B5
+Pseudarthrobacter,G,B5
+Pseudobutyrivibrio,G,B5
+Roseburia,G,B5
+Ruminococcus,G,B5
+Ruminococcus lactaris,S,B5
+Ruminococcus torques,S,B5
+Streptomyces,G,B5
+Adlercreutzia,G,B6
+Akkermansia,G,B6
+Anaerostipes,G,B6
+Arcobacter,G,B6
+Bifidobacterium,G,B6
+Bifidobacterium longum,S,B6
+Butyricimonas,G,B6
+Butyrivibrio,G,B6
+Collinsella,G,B6
+Collinsella aerofaciens,S,B6
+Eubacterium,G,B6
+Geobacillus,G,B6
+Gordonibacter,G,B6
+Halobacterium,G,B6
+Halorubrum,G,B6
+Intestinibacter,G,B6
+Lactobacillus,G,B6
+Lactobacillus helveticus,S,B6
+Leuconostoc,G,B6
+Megamonas,G,B6
+Methanobacterium,G,B6
+Methanobrevibacter,G,B6
+Odoribacter,G,B6
+Olsenella,G,B6
+Paenibacillus,G,B6
+Parabacteroides,G,B6
+Phascolarctobacterium,G,B6
+Pseudarthrobacter,G,B6
+Romboutsia,G,B6
+Roseburia,G,B6
+Ruminiclostridium,G,B6
+Streptomyces,G,B6
+Turicibacter,G,B6
+Akkermansia,G,B7
+Arcobacter,G,B7
+Barnesiella,G,B7
+Butyricimonas,G,B7
+Cetobacterium,G,B7
+Coprobacter,G,B7
+Geobacillus,G,B7
+Odoribacter,G,B7
+Paenibacillus,G,B7
+Parabacteroides,G,B7
+Paraprevotella,G,B7
+Pseudarthrobacter,G,B7
+Romboutsia,G,B7
+Sanguibacteroides,G,B7
+Streptomyces,G,B7
+Bacteroidetes,P,B9
+Bifidobacterium,G,B9
+Bifidobacterium adolescentis,S,B9
+Bifidobacterium pseudocatenulatum,S,B9
+Butyricimonas,G,B9
+Coprobacter,G,B9
+Geobacillus,G,B9
+Lactobacillus,G,B9
+Lactobacillus acidophilus,S,B9
+Lactobacillus plantarum,S,B9
+Odoribacter,G,B9
+Paenibacillus,G,B9
+Parabacteroides,G,B9
+Pseudarthrobacter,G,B9
+Streptococcus thermophilus,S,B9
+Bifidobacterium,G,D3
+Carnobacterium,G,D3
+Carnobacterium maltaromaticum,S,D3
+Coprococcus,G,D3
+Lactobacillus,G,D3
+Lactobacillus plantarum,S,D3
+Lactobacillus reuteri,S,D3
+Lactobacillus rhamnosus,S,D3
+Ruminococcus,G,D3
+Streptomyces griseolus,S,D3
+Eubacterium,G,K2
+Eubacterium lentum,S,K2
+Lactococcus,G,K2
+Lactococcus lactis,S,K2
+Leuconostoc,G,K2
+Propionibacterium,G,K2

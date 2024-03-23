@@ -1,0 +1,133 @@
+TaxonName,Rank,Ацетат,Пропионат,Масляная кислота
+Acetobacterium,G,1,0,0
+Acetogenium (Thermoanaerobacter),G,1,0,0
+Acidaminococcus ,G,1,0,1
+Actinomycetota,P,0,0,1
+Agathobacter,G,1,1,1
+Agathobaculum,G,0,0,1
+Akkermansia,G,1,1,0
+Akkermansia muciniphila,S,1,1,0
+Alistipes,G,1,1,0
+Alistipes inops,S,1,0,0
+Alistipes onderdonkii,S,1,1,0
+Alistipes putredinis,S,1,1,0
+Alloprevotella,G,1,0,1
+Anaerobutyricum,G,0,1,1
+Anaerobutyricum hallii,S,0,0,1
+Anaerobutyricum soehngenii,S,0,1,1
+Anaerostipes,G,1,1,1
+Anaerostipes butyraticus,S,0,0,1
+Anaerostipes caccae,S,0,0,1
+Anaerostipes hadrus,S,0,0,1
+Anaerostipes rhamnosivorans,S,0,0,1
+Anaerotruncus,G,0,0,1
+Anaerotruncus colihominis,S,0,0,1
+Anaerovibrio,G,0,1,0
+Bacteroidales ,O,1,1,1
+Bacteroides,G,1,1,1
+Bacteroides ovatus,S,0,0,1
+Bacteroides plebeius,S,0,0,1
+Bacteroides thetaiotaumicron,S,0,0,1
+Bacteroides uniformis,S,0,1,1
+Bacteroides xylanisolvens,S,0,0,1
+Bacteroidia,C,1,1,1
+Bacteroidota (Bacteroidetes),P,1,1,1
+Bifidobacterium,G,1,1,1
+Bifidobacterium adolescentis,S,1,0,0
+Bifidobacterium bifidum,S,1,0,0
+Bifidobacterium breve,S,1,0,0
+Bifidobacterium catenulatum,S,1,0,0
+Bifidobacterium dentium,S,1,0,0
+Bifidobacterium longum,S,1,0,0
+Bifidobacterium pseudocatenulatum,S,1,0,0
+Bifidobacterium pseudolongum,S,0,0,1
+Blautia,G,1,0,1
+Blautia coccoides (Clostridium coccoides),S,1,0,1
+Blautia hansenii,S,1,,
+Blautia luti,S,1,,
+Blautia obeum,S,1,,
+Blautia faecis,S,0,0,1
+Blautia hydrogenotrophica,S,1,1,0
+Blautia obeum,S,,1,
+Blautia wexlerae,S,1,,
+Butyricicoccus,G,0,0,1
+Butyricicoccus pullicaecorum,S,0,0,1
+Butyricimonas,G,0,0,1
+Butyrivibrio,G,1,0,1
+Butyrivibrio fibrisolvens,S,0,0,1
+Butyrivibrio hungatei,S,0,0,1
+Caproiciproducens,G,1,0,1
+Christensenella minuta,S,1,0,1
+Christensenella,G,1,0,1
+Clostridia,C,0,0,1
+Clostridium sp. MSTE9 (cluster XIVb),S,,1,
+Clostridioides,G,0,0,1
+Coprobacter,G,1,1,0
+Coprococcus,G,1,1,1
+Coprococcus catus,S,0,1,1
+Coprococcus comes,S,0,0,1
+Coprococcus eutactus,S,0,0,1
+Dialister,G,0,1,0
+Eubacterium,G,1,1,1
+Eubacterium eligens,S,0,0,1
+Eubacterium hallii,S,0,1,1
+Eubacterium limosum,S,0,0,1
+Eubacterium ramulus,S,0,0,1
+Eubacterium rectale,S,0,0,1
+Eubacterium ventriosum,S,0,0,1
+Faecalibacterium,G,0,0,1
+Faecalibacterium prausnitzii,S,0,0,1
+Firmicutes,P,0,1,1
+Flavonifractor,G,0,0,1
+Fournierella,G,1,1,1
+Fusicatenibacter,G,1,0,0
+Gammaproteobacteria,C,1,0,0
+Holdemanella,G,0,0,1
+Intestinimonas,G,1,0,1
+Lachnoclostridium,G,0,0,1
+Lachnospira,G,0,0,1
+Lachnospiraceae,F,0,0,1
+Lactobacillus,G,1,1,1
+Marvinbryantia formatexigens,S,1,0,0
+Mediterraneibacter,G,0,0,1
+Megasphaera,G,0,1,0
+Methanobrevibacter,G,1,0,0
+Methanobrevibacter smithii,S,1,0,0
+Muribaculaceae,F,0,1,0
+Negativicutes,G,0,1,0
+Negativicutes succinicivorans,S,0,1,0
+Odoribacter,G,1,1,1
+Olsenella,G,1,0,0
+Oscillibacter,G,0,0,0
+Oscillospira,G,0,0,1
+Oscillospiraceae (Ruminococcaceae),F,0,0,1
+Parabacteroides,G,1,0,0
+Paraprevotella,G,1,0,0
+Peptococcus,G,1,0,1
+Peptoniphilus,G,1,0,1
+Phascolarctobacterium,G,1,1,0
+Phascolarctobacterium succinatutens,S,0,1,0
+Phocaeicola,G,0,1,0
+Propionibacterium,G,1,1,0
+Propionibacterium acidipropionici,S,0,1,0
+Pseudobutyrivibrio,G,0,0,1
+"Pseudobutyrivibrioxylanivorans",S,0,0,1
+Propionibacteriales,O,1,1,0
+Roseburia,G,1,1,1
+Roseburia faecis,S,0,0,1
+Roseburia hominis,S,0,0,1
+Roseburia intestinalis,S,1,1,1
+Roseburia inulinivorans,S,0,1,1
+Ruminiclostridium,G,0,0,1
+Ruminococcus,G,1,1,1
+Ruminococcus bromii,S,1,0,0
+Ruminococcus callidus,S,0,0,1
+Ruminococcus champanellensis,S,0,0,1
+Ruminococcus inulinivorans,,,1,
+Ruminococcus gnavus,,,1,
+Ruminococcus torques,,,1,
+Streptococcus,G,1,0,0
+Subdoligranulum,G,0,0,1
+Subdoligranulum variabile,S,0,0,1
+Turicibacter,G,0,0,1
+Viola parvula,S,1,1,0

@@ -1,0 +1,41 @@
+TaxonName,Rank,Habbit,Habit_state
+Alistipes,G,Кофе,Увеличена
+Faecalibacterium,G,Кофе,Увеличена
+Prevotella,G,Кофе,Увеличена
+Bifidobacterium,G,Кофе,Увеличена
+Blautia,G,Кофе,Увеличена
+Desulfovibrio,G,Курение,Увеличена
+Alphaproteobacteria,C,Курение,Увеличена
+Erysipelotrichaceae,F,Курение,Увеличена
+Erysipelotrichales,O,Курение,Увеличена
+Erysipelotrich,C,Курение,Увеличена
+Catenibacterium,G,Курение,Увеличена
+Slackia,G,Курение,Увеличена
+Collinsella,G,Курение,Увеличена
+Prevotella,G,Курение,Увеличена
+Enterococcus,G,Курение,Увеличена
+Enterococcus faecium,S,Курение,Увеличена
+Haemophilus,G,Курение,Увеличена
+Haemophilus parainfluenzae,S,Курение,Увеличена
+Klebsiella,G,Курение,Увеличена
+Dialister,G,Курение,Увеличена
+Megasphaera,G,Курение,Увеличена
+Clostridium,G,Курение,Увеличена
+Clostridium difficile,S,Курение,Увеличена
+Clostridium,G,Курение,Увеличена
+Lactococcus,G,Курение,Уменьшена
+Ruminococcus,G,Курение,Уменьшена
+Enterobacteriaceae,F,Курение,Уменьшена
+Bifidobacterium,G,Курение,Уменьшена
+Akkermansia,G,Курение,Уменьшена
+Akkermansia muciniphila,S,Курение,Уменьшена
+Bacteroides,G,Алкоголь,Увеличена
+Clostridium,G,Алкоголь,Увеличена
+Enterobacteriaceae,F,Алкоголь,Уменьшена
+Lachnospiraceae,F,Алкоголь,Уменьшена
+Ruminococcaceae,F,Алкоголь,Уменьшена
+Faecalibacterium,G,Алкоголь,Уменьшена
+Sutterella,G,Алкоголь,Увеличена
+Holdemania,G,Алкоголь,Увеличена
+Proteobacteria,P,Алкоголь,Увеличена
+Akkermansia,G,Алкоголь,Уменьшена
